@@ -35,7 +35,7 @@
         ],
         "localLink": "%web_protocol%://%ip%:%web_port%/vis/edit.html",
         "mode": "daemon",
-        "type": "scripting",
+        "type": "general",
         "compact": true,
         "materialize": true,
         "materializeTab": true,
