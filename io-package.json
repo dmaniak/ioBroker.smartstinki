@@ -27,8 +27,8 @@
         "main": "main.js",
         "icon": "icon.png",
         "enabled": true,
-        "extIcon": "https://raw.githubusercontent.com/Author/ioBroker.smartstinki/master/admin/icon.png",
-        "readme": "https://github.com/Author/ioBroker.smartstinki/blob/master/README.md",
+        "extIcon": "https://raw.githubusercontent.com/dmaniak-tgm/ioBroker.smartstinki/master/icon.png?token=AFNBYKXL4F3DI64FYTDCB3S6HP5HO",
+        "readme": "https://github.com/dmaniak-tgm/ioBroker.smartstinki/blob/master/README.md",
         "loglevel": "debug",
         "restartAdapters": [
             "vis"
